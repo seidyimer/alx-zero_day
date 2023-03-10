@@ -1,2 +1,2 @@
 task
-Updated the task for collaboration
+Updated the readme file for collaboration
